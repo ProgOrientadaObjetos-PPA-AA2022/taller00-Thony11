@@ -7,7 +7,7 @@ package paquete5;
 
 /**
  *
- * @author reroes
+ * @author Lenovo
  */
 public class Dato {
     

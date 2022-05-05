@@ -5,9 +5,11 @@
  */
 package paquete3;
 
+import paquete5.Dato;
+
 /**
  *
- * @author reroes
+ * @author Lenovo
  */
 public class Valor {
     

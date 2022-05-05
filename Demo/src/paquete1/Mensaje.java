@@ -5,9 +5,11 @@
  */
 package paquete1;
 
+import paquete4.Palabra;
+
 /**
  *
- * @author reroes
+ * @author Lenovo
  */
 public class Mensaje {
 

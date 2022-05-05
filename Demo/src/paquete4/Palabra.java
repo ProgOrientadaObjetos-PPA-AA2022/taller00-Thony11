@@ -7,7 +7,7 @@ package paquete4;
 
 /**
  *
- * @author reroes
+ * @author Lenovo
  */
 public class Palabra {
     
